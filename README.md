@@ -1,2 +1,5 @@
 # prc-responsive-navbar
-Responsive navigation bar with HTML, CSS, and Javascript
+  - Responsive navigation bar
+  - Coding with HTML, CSS, and Javascript
+  - Usable for PC and Mobile
+  - free for use
